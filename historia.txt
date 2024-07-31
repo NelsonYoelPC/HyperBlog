@@ -1,1 +1,4 @@
-esta es el segundo commit -m
+esta es
+son mis primeros comandos de git 
+haciendo pruebas
+un 2024/07/31
