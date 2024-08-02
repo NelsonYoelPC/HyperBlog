@@ -18,3 +18,10 @@ body {
     font-size: 1.5em;
     text-align: center;
 }
+#cabecera {
+    background-color: #0044ff;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 1em;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
+}
