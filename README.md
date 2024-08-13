@@ -13,7 +13,7 @@ En este blog encontrarás artículos sobre:
 - **Proyectos y Casos de Estudio** 📊
 - **Tutoriales y Guías** 📚
 - **Reflexiones sobre la Industria de la Tecnología** 💡
-
+- **Malas practicas en readme** 💡
 ## Licencia 📜
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
