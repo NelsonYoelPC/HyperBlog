@@ -14,6 +14,10 @@ En este blog encontrarás artículos sobre:
 - **Tutoriales y Guías** 📚
 - **Reflexiones sobre la Industria de la Tecnología** 💡
 - **Malas practicas en readme** 💡
+<<<<<<< HEAD
+=======
+- **Inlcuye ejemplos de Windows y Linux Mac** 💡
+>>>>>>> readme-mejorado
 ## Licencia 📜
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
